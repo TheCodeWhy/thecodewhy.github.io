@@ -1,0 +1,9 @@
+# <app-ads.txt file for Maze : Puzzle Your Way Out !>
+# Purpose of this file:
+# This app-ads.txt file is used to declare authorized digital sellers for Maze : Puzzle Your Way Out !.
+
+# Contact information:
+# If you have any questions or concerns regarding this file, please contact us at whybreaksilent@gmail.com.
+google.com, pub-9675282461511574, DIRECT, f08c47fec0942fa0
+
+
